@@ -72,6 +72,14 @@ I believe in delivering solutions that work, focusing on functionality and user 
 
 ---
 
+## 🕒 Hackatime Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2292&api_domain=hackatime.hackclub.com&theme=holi&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Programming Time" />
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 - 📱 Developing robust Android applications
