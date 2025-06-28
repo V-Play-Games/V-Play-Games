@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F0&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Vaibhav+%F0%9F%91%8B;Android+Developer+%26+Student;Building+Mobile+Experiences+%F0%9F%93%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F0&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Vaibhav+%F0%9F%91%8B;Android+%2F+Game+Dev+Enthusiast;Delivering+Projects+that+Work!">
 </div>
 
 <div align="center">
@@ -17,10 +17,11 @@ I believe in delivering solutions that work, focusing on functionality and user 
 
 ## 🚀 About Me
 
-- 🎓 **Student** passionate about mobile development
-- 📱 **Android Developer** crafting native mobile experiences
+- 🎓 **Student** passionate about mobile and game development
+- 📱 **Android Developer** crafting native and interactive experiences
 - 💡 Always learning and exploring new technologies
-- 🎮 Interest in game-related projects and interactive applications
+- 🎮 Interested in both games and productivity tools
+- 🌱 Currently exploring 3D visualization & audio programming
 
 ---
 
@@ -32,8 +33,10 @@ I believe in delivering solutions that work, focusing on functionality and user 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Development Environment
+### Tools & Environment
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -42,17 +45,28 @@ I believe in delivering solutions that work, focusing on functionality and user 
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Recent Projects
 
 <div align="center">
 
+### 🧬 [Venixxino](https://github.com/V-Play-Games/Venixxino)
+*A 3D demonstration to visualize electronic configurations for the first 20 periodic table elements* (HTML)
+
+### 🎹 [Javalovania](https://github.com/V-Play-Games/Javalovania)
+*A MIDI Cover of Megalovania written in Java*
+
+### 🕹 [2048-Shell](https://github.com/V-Play-Games/2048-Shell)
+*2048: Endgame - Bash Your Way Through Multipliers, Dividers, and the Forbidden 1!*
+
 ### 🎵 [VGM APEX](https://github.com/V-Play-Games/VGM-APEX)
-*Advanced audio management and processing application*
+*Video Game Music Audio Player EX - Spotify but for video games* (Kotlin)
 
 ### 📄 [VJSON](https://github.com/V-Play-Games/VJSON)
-*JSON processing library for enhanced data handling*
+*A simple JSON library to serialize and deserialize JSON text* (Kotlin)
 
 </div>
+
+<sub>[... and more](https://github.com/search?q=user%3AV-Play-Games+fork%3Afalse&sort=updated&order=desc).</sub>
 
 ---
 
@@ -75,16 +89,17 @@ I believe in delivering solutions that work, focusing on functionality and user 
 ## 🕒 Hackatime Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2292&api_domain=hackatime.hackclub.com&theme=holi&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Programming Time" />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2292&api_domain=hackatime.hackclub.com&theme=holi&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=6" alt="Hackatime Stats" />
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-- 📱 Developing robust Android applications
+- 📱 Developing robust Android and game applications
+- 🧪 Exploring 3D visualization and audio processing
 - 🔧 Improving code efficiency and user experience
-- 📚 Expanding knowledge in mobile development patterns
+- 📚 Expanding knowledge in mobile and interactive development
 - 🚀 Contributing to open-source projects
 
 ---
@@ -105,9 +120,7 @@ I believe in delivering solutions that work, focusing on functionality and user 
 </div>
 
 <div align="center">
-  
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out! 🚀**
-
+  <b>Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out! 🚀</b>
 </div>
 
 ---
